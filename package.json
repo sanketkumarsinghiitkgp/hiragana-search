@@ -9,7 +9,7 @@
     "react-scripts": "3.1.1",
     "react-signature-canvas": "^1.0.3"
   },
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "https://github.com/sanketkumarsinghiitkgp/hiragana-search",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
