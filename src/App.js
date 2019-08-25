@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App fullscreen ">
         <h1>
          Hiragana Search<br/>
-         平仮名検索    
+         ひらがな検索
         </h1>
         <Canvas className="flxc">
 
