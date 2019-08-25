@@ -20,7 +20,7 @@ class Canvas extends Component {
         //pass the url
         let data = "http://localhost:3000/" + this.state.trimmedDataURL;
         this.setState({char: "x"});
-        return fetch("https://hiragana-search.herokuapp.com/img", {
+        return fetch("https://hiragana-search.appspot.com/img", {
           method: "POST",
           body: JSON.stringify(data)
         })
