@@ -1,56 +1,68 @@
-  .container {
-    width: 50%;
-    height: 40vh;
-    margin-left: 25vw;
-    border-color: black;
-  }
-  
-  .sigContainer {
-    width: 35%;
-    height: 80%;
-    margin: 0 auto;
-    background-color: #fff;
-  }
-  
-  .sigPad {
-    width: 200px;
-    height: 200px;
-  }
-  .buttons {
-    margin: 1vh 20vw;
-    flex-direction: column;
-    justify-content: center;
-    background-color: #131313;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    font-size: 16px;
-    opacity: 0.8;
-    cursor: pointer;
-    box-shadow: 0 5px rgb(0, 0, 0);
+.parent{
+  text-align: center;
+}
+.container {
+  display: inline-block;
+  text-align: center;
+  width: 20vw;
+  height: 20vh;
+  border-color: black;
+}
 
-  }
-  .buttons:hover {
+.sigContainer {
+  text-align: center;
+  display: inline-block;
+  width: 20vw;
+  height: 20vw;
+  margin: 0 auto;
+  background-color: #fff;
+}
 
-    background-color: #767676;
-    color: white;
-  }
-  .buttons:active {
-    background-color: #131313;
-    box-shadow: 0 5px rgb(0, 0, 0);
-    transform: translateY(4px);
-  }
-  .sigImage {
-    
-    background-size: 200px 200px;
-    width: 5vw;
-    height: 10vh;
-    background-color: white;
-  }
-  .loading{
-    text-align: center;
-    width:10%;
-    height: 10%;
-  }
+.sigPad {
+  
+  text-align: center;
+  display: inline-block;
+  width: 20vw;
+  height: 20vw;
+}
+.buttons {
+  text-align: center;
+  display: inline-block;
+  margin-top: 1vw;
+  background-color: #131313;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  border: none;
+  color: white;
+  padding: 2vh 4vw;
+  font-size: 1.2rem;
+  opacity: 0.8;
+  cursor: pointer;
+  box-shadow: 0 5px rgb(0, 0, 0);
+}
+.buttons:hover {
+  background-color: #767676;
+  color: white;
+}
+.buttons:active {
+  background-color: #131313;
+  box-shadow: 0 5px rgb(0, 0, 0);
+  transform: translateY(4px);
+}
+.sigImage {
+  text-align: center;
+  display: inline-block;
+  
+  background-size: 20vw 20vh;
+  width: 5vw;
+  height: 10vh;
+  background-color: white;
+}
+.loading {
+  text-align: center;
+  text-align: center;
+  display: inline-block;
+  
+  width: 10%;
+  height: 10%;
+}
