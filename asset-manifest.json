@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hiragana-search/static/css/main.b946e59c.chunk.css",
+    "main.js": "/hiragana-search/static/js/main.aa21a825.chunk.js",
+    "main.js.map": "/hiragana-search/static/js/main.aa21a825.chunk.js.map",
+    "runtime~main.js": "/hiragana-search/static/js/runtime~main.04b798a8.js",
+    "runtime~main.js.map": "/hiragana-search/static/js/runtime~main.04b798a8.js.map",
+    "static/js/2.c1795bd7.chunk.js": "/hiragana-search/static/js/2.c1795bd7.chunk.js",
+    "static/js/2.c1795bd7.chunk.js.map": "/hiragana-search/static/js/2.c1795bd7.chunk.js.map",
+    "index.html": "/hiragana-search/index.html",
+    "precache-manifest.3d623accd5e089e5a8edfd6093999acc.js": "/hiragana-search/precache-manifest.3d623accd5e089e5a8edfd6093999acc.js",
+    "service-worker.js": "/hiragana-search/service-worker.js",
+    "static/css/main.b946e59c.chunk.css.map": "/hiragana-search/static/css/main.b946e59c.chunk.css.map",
+    "static/media/loading.svg": "/hiragana-search/static/media/loading.89387884.svg"
+  }
+}
